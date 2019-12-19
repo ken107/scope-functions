@@ -1,0 +1,28 @@
+{
+  "name": "scope-functions",
+  "version": "1.0.0",
+  "description": "Scope functions for JavaScript, inspired by Kotlin",
+  "main": "index.js",
+  "keywords": [
+    "scope",
+    "scoping",
+    "function",
+    "also",
+    "let",
+    "kotlin"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "Hai Phan <hai.phan@gmail.com>",
+  "license": "MIT",
+  "jest": {
+    "testRegex": "(\\.|/)test\\.js$"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.24",
+    "jest": "^24.9.0",
+    "typescript": "^3.7.3"
+  }
+}
