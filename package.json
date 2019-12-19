@@ -1,8 +1,8 @@
 {
   "name": "scope-functions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scope functions for JavaScript, inspired by Kotlin",
-  "main": "index.js",
+  "main": "dist/index",
   "keywords": [
     "scope",
     "scoping",
